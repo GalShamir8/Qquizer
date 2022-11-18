@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Quizer</string>
     <string name="get_started">בואו נתחיל</string>
+    <string name="login">התחבר</string>
+    <string name="register">הירשם</string>
 </resources>
