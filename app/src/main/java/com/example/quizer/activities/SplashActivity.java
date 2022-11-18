@@ -1,10 +1,11 @@
-package com.example.quizer;
+package com.example.quizer.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.example.quizer.R;
 import com.google.android.material.button.MaterialButton;
 
 public class SplashActivity extends AppCompatActivity {
